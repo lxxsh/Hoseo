@@ -1,0 +1,2 @@
+# Hoseo
+Linux Git Practice
