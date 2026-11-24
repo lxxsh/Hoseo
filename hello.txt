@@ -1,2 +1,1 @@
-Hello Git
-Linux class
+Hello feature
